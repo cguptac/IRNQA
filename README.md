@@ -1,4 +1,11 @@
 # IRNQA: Interpretable Reasoning Network for Multi-Relation Question Answering
+
+## Setting up the environment
+
+```
+conda create --name irnqaenv --file requirements.txt --channel default --channel anaconda --channel conda-forge --channel pytorch 
+```
+
  
 This is a repository for the implementation of the paper-
 [Interpretable Reasoning Network for Multi-Relation Question Answering](https://www.aclweb.org/anthology/C18-1171/)
